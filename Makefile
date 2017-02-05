@@ -1,4 +1,4 @@
-XCODE_USER_TEST_TEMPLATES_DIR=~/Library/Developer/Xcode/Templates/Test
+XCODE_USER_TEST_TEMPLATES_DIR=~/Library/Developer/Xcode/Templates/XCFit
 
 TEMPLATES_DIR=Xcode\ Templates/
 
